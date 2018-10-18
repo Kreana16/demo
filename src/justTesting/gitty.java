@@ -10,5 +10,8 @@ package justTesting;
  * @author Andreas
  */
 public class gitty {
-    
+    //here is a test constructor in gitty
+    public gitty(){
+        
+    }
 }
